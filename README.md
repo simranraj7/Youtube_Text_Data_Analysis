@@ -37,6 +37,6 @@ Open and run the Jupyter notebooks in the 'analysis' folder to perform sentiment
 Export data:
 Utilize the provided scripts to export analyzed data into desired formats.
 
-Contribution
+Contribution:
 Contributions are welcome! Feel free to submit issues, pull requests, or suggest additional features to enhance this YouTube analysis project.
 
