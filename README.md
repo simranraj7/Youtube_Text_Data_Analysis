@@ -1,4 +1,4 @@
-# Youtube_Analysis
+# Youtube_Text Data Analysis
 # Overview
 This project provides a comprehensive analysis of YouTube data, offering insights into user sentiments, word usage, emoji frequency, and category-based likes. The analysis is performed on YouTube comments, providing valuable information for content creators, marketers, and researchers.
 
